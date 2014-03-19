@@ -1,4 +1,4 @@
 Arquivo alterado!
-Alterado via github
+Alterado via github para gerar conflitos
 
 

@@ -1,5 +1,5 @@
 package teste;
 
 public enum Color{
-RED,PINK, GReen, BLUE;
+RED,PINK, GREEN, BLUE;
 }

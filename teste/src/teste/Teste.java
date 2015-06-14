@@ -9,5 +9,6 @@ public class Teste {
 
 	public void newMethod(){
 		System.out.println("This is changed again !!!??");
+		System.out.println("This is changed again !!!??");
 	}
 }
